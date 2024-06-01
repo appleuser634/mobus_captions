@@ -1,19 +1,22 @@
 # Mo-Bus誕生
 
-[画像](mobus_1.jpg)
+![画像](https://github.com/appleuser634/mobus_captions/blob/main/imaages/mobus_1.jpg?raw=true)
 
 - Mo-Busで何ができるの？
 1. Mo-Bus同士で、インターネットを通じてメッセージのやりとりを行う事ができます。
 2. Mo-BusからLINEへメッセージを送る事ができます。
 
 - Mo-Busの操作方法
-[画像](mobus_1_usage.jpg)
+
+![画像](https://github.com/appleuser634/mobus_captions/blob/main/imaages/mobus_1_usage.jpg?raw=true)
 
 - 配線した様子
-[画像](mobus_1_circuit.jpg)
+
+![画像](https://github.com/appleuser634/mobus_captions/blob/main/imaages/mobus_1_circuit.jpg?raw=true)
 
 - 筐体の設計
-[画像](mobus_1_design.jpg)
+
+![画像](https://github.com/appleuser634/mobus_captions/blob/main/imaages/mobus_1_design.jpg?raw=true)
 
 - 作ろうと思ったきっかけ
 現代ではアマチュア無線を行なっている方以外だと、モールス信号への馴染みが無い方が多いと思います。
